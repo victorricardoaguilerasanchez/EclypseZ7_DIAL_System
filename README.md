@@ -11,3 +11,4 @@ In particular, the codes and constraints used for the measurements obtained in t
 * Vitis_Codes/DIAL_ON_CHIP_CORR_ON_CHIP_CONFIG
 * Matlab_Codes/ECLYPSE_Z7_DIAL_v3
 
+DOI: https://doi.org/10.5281/zenodo.6686373
